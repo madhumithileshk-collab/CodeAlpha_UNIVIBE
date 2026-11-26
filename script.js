@@ -6,7 +6,7 @@
 // LIKE FEATURE REMOVED
 // ======================================
 
-const API_URL = "https://univibe-backend-6kv4.onrender.com/api";
+const API_URL = "http://localhost:5001/api";
 
 // ======================================
 // AUTHENTICATION
@@ -54,7 +54,7 @@ function showDashboard(student) {
     document.getElementById("auth-section")?.classList.add("hidden");
     document.getElementById("app-container")?.classList.remove("hidden");
 
-    const name = student.name || "Student";
+    const name = "Mithilesh K";
     const initial = name.charAt(0).toUpperCase();
 
     // Update student name
