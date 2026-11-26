@@ -98,6 +98,10 @@ Original project adapted with permission for learning purposes.
 📄 License
 
 This project is created for educational and learning purposes.
-## Live Demo
+## Project Links
 
+**GitHub Repository:** 
+https://github.com/madhumithileshk-collab/UNIVIBE
+
+**Live Demo:** 
 https://madhumithileshk-collab.github.io/UNIVIBE/
