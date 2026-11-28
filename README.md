@@ -103,5 +103,5 @@ This project is created for educational and learning purposes.
 **GitHub Repository:** 
 https://github.com/madhumithileshk-collab/UNIVIBE
 
-**Live Demo:** 
-https://madhumithileshk-collab.github.io/UNIVIBE/
+## 🌐 Live Demo
+(https://madhumithileshk-collab.github.io/CodeAlpha_UNIVIBE/)
